@@ -21,7 +21,7 @@ This project involves developing a comprehensive AI pipeline for image segmentat
 ### Prerequisites
 
 - Python 3.x
-- Required Python libraries (e.g., TensorFlow, PyTorch, OpenCV, PIL, Streamlit, etc.)
+- Required Python libraries (e.g., PyTorch, OpenCV, PIL, Streamlit, etc.)
 
 ### Installation
 
