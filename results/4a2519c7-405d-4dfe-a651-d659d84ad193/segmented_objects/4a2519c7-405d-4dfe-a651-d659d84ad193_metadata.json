@@ -1,0 +1,47 @@
+[
+    {
+        "object_id": "377f49d6-54ad-4e94-af64-884a92330bed",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_377f49d6-54ad-4e94-af64-884a92330bed.png"
+    },
+    {
+        "object_id": "f38bc8a4-1745-43b1-be2a-27c588da04dc",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_f38bc8a4-1745-43b1-be2a-27c588da04dc.png"
+    },
+    {
+        "object_id": "be1cfc84-5e5a-4d6c-bcbb-3f26b38de70c",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_be1cfc84-5e5a-4d6c-bcbb-3f26b38de70c.png"
+    },
+    {
+        "object_id": "80621ecf-9417-40d5-9260-2e2f55897ff2",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_80621ecf-9417-40d5-9260-2e2f55897ff2.png"
+    },
+    {
+        "object_id": "7848550d-4346-479a-92fd-3f0117081700",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_7848550d-4346-479a-92fd-3f0117081700.png"
+    },
+    {
+        "object_id": "12d7f023-1bb7-4a8b-83cf-648232359500",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_12d7f023-1bb7-4a8b-83cf-648232359500.png"
+    },
+    {
+        "object_id": "ed669220-0fd4-4f8b-938f-24283c4da0a9",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_ed669220-0fd4-4f8b-938f-24283c4da0a9.png"
+    },
+    {
+        "object_id": "be0a59a3-7df6-45b2-afca-890b22ffb9f9",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_be0a59a3-7df6-45b2-afca-890b22ffb9f9.png"
+    },
+    {
+        "object_id": "09365539-1ac7-47c0-b398-eb7cef7006bd",
+        "master_id": "4a2519c7-405d-4dfe-a651-d659d84ad193",
+        "object_image_path": "segmented_objects\\4a2519c7-405d-4dfe-a651-d659d84ad193\\4a2519c7-405d-4dfe-a651-d659d84ad193_09365539-1ac7-47c0-b398-eb7cef7006bd.png"
+    }
+]
