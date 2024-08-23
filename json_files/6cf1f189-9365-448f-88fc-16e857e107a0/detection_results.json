@@ -1,0 +1,12 @@
+[
+    {
+        "object_id": "47d3e658-228d-4a3c-8c39-0a04ba44054d",
+        "master_id": "6cf1f189-9365-448f-88fc-16e857e107a0",
+        "detected_objects": [
+            {
+                "label": "truck",
+                "confidence": 0.7615270614624023
+            }
+        ]
+    }
+]
