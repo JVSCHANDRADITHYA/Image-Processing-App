@@ -1,0 +1,47 @@
+[
+    {
+        "object_id": "cb17600b-9596-4997-99b7-34599c959631",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_cb17600b-9596-4997-99b7-34599c959631.png"
+    },
+    {
+        "object_id": "c8fead9f-d417-4687-a772-519f0f87c4cf",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_c8fead9f-d417-4687-a772-519f0f87c4cf.png"
+    },
+    {
+        "object_id": "64712f3e-da86-453b-b895-3ae4d1dd8ac7",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_64712f3e-da86-453b-b895-3ae4d1dd8ac7.png"
+    },
+    {
+        "object_id": "24f28cb8-27ee-4107-a73d-5fa9cad8d96e",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_24f28cb8-27ee-4107-a73d-5fa9cad8d96e.png"
+    },
+    {
+        "object_id": "b503f59e-45d8-485c-901b-e38a7582c6ad",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_b503f59e-45d8-485c-901b-e38a7582c6ad.png"
+    },
+    {
+        "object_id": "0210fd0b-501a-4bc1-a6f9-ea2d517341b4",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_0210fd0b-501a-4bc1-a6f9-ea2d517341b4.png"
+    },
+    {
+        "object_id": "d8c6f61f-18df-4dc4-9cfc-16d4ebc441de",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_d8c6f61f-18df-4dc4-9cfc-16d4ebc441de.png"
+    },
+    {
+        "object_id": "f2d23438-3ca4-4b5d-9d7f-65432589e116",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_f2d23438-3ca4-4b5d-9d7f-65432589e116.png"
+    },
+    {
+        "object_id": "3c68d189-4b5f-46e4-9130-d713eca09811",
+        "master_id": "d4adbfaa-9426-4199-8144-d843f912d79b",
+        "object_image_path": "segmented_objects\\d4adbfaa-9426-4199-8144-d843f912d79b\\d4adbfaa-9426-4199-8144-d843f912d79b_3c68d189-4b5f-46e4-9130-d713eca09811.png"
+    }
+]
