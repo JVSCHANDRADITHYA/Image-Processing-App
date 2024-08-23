@@ -63,20 +63,6 @@ This project involves developing a comprehensive AI pipeline for image segmentat
 5. **Export Results**:
     - Use the export functionality to save segmented objects and metadata.
 
-## Project Requirements
-
-- **Image Segmentation**: Implement or use a pre-trained model for segmentation.
-- **Object Extraction**: Extract and store segmented objects with unique IDs.
-- **Object Identification**: Implement or use a pre-trained model for object identification.
-- **Text/Data Extraction**: Use OCR tools to extract text/data from objects.
-- **Summarization**: Generate summaries of object attributes.
-- **Data Mapping**: Map data and attributes to each object and the master image.
-- **Output Generation**: Generate and visualize final output.
-
-## Testing
-
-- Ensure all functionalities are tested with different images and scenarios.
-- Validate the accuracy of object segmentation, identification, text extraction, and summarization.
 
 ## Documentation
 
