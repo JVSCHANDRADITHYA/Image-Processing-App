@@ -1,0 +1,47 @@
+[
+    {
+        "object_id": "073c8e05-449e-48a0-9660-5163180d87d3",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "A truck was detected with a confidence score of 0.55."
+    },
+    {
+        "object_id": "19a96f83-a2dd-4ed3-97b4-a8ff21936ccb",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "DESCRIPTION NOT AVAILABLE FOR THE OBJECT"
+    },
+    {
+        "object_id": "3e7df08f-1a43-41ef-9152-199a257d32d4",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "A tv was detected with a confidence score of 0.25."
+    },
+    {
+        "object_id": "51b2444f-9789-481c-91e1-5020b2fcd05e",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "A car was detected with a confidence score of 0.76."
+    },
+    {
+        "object_id": "66f4feb3-1a24-4c00-afd9-f7c4971ea82c",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "A car was detected with a confidence score of 0.79."
+    },
+    {
+        "object_id": "76a68195-eb75-4b56-a1d8-2bc523aa94b6",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "A car was detected with a confidence score of 0.70."
+    },
+    {
+        "object_id": "815e66e7-89fe-4610-be6c-8ee00091f646",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "A car was detected with a confidence score of 0.57."
+    },
+    {
+        "object_id": "a9d47d23-85b4-42a7-9e76-0d124c404c2f",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "A car was detected with a confidence score of 0.79."
+    },
+    {
+        "object_id": "e261470a-24d1-4e6e-bed3-6f3d678b7985",
+        "master_id": "1bc8c3e6-8ac3-4de5-8e83-068a82cd640e",
+        "summary": "DESCRIPTION NOT AVAILABLE FOR THE OBJECT"
+    }
+]

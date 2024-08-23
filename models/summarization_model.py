@@ -25,8 +25,11 @@ def generate_summary(master_id):
             object_description = f"A {label} was detected with a confidence score of {confidence:.2f}."
             object_descriptions.append(object_description)
 
-        # Combine descriptions
-        summary_text = " ".join(object_descriptions)
+        if len(object_descriptions) == 0:
+            summary_text = "DESCRIPTION NOT AVAILABLE FOR THE OBJECT"
+        else :
+            # Combine descriptions
+            summary_text = " ".join(object_descriptions)
         
         # Add metadata to the summary
         summary = {
@@ -53,4 +56,4 @@ def generate_summary(master_id):
 
 # Example usage
 if __name__ == '__main__':
-    generate_summary('f6448034-5911-4791-ac7f-bb8853ac4252')
+    generate_summary('1bc8c3e6-8ac3-4de5-8e83-068a82cd640e')

@@ -64,4 +64,4 @@ def detect_objects (master_id):
     print(f"Object detection completed. Results saved in '{output_json}'.")
 
 if __name__ == '__main__':
-    detect_objects('f6448034-5911-4791-ac7f-bb8853ac4252')
+    detect_objects('1bc8c3e6-8ac3-4de5-8e83-068a82cd640e')
