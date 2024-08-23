@@ -63,6 +63,9 @@ This project involves developing a comprehensive AI pipeline for image segmentat
 5. **Export Results**:
     - Use the export functionality to save segmented objects and metadata.
 
+### User Interface 
+    ![Streamlit UI Screenshot](resources\model.png)
+
 
 ## Documentation
 
