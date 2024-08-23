@@ -37,7 +37,11 @@ This project involves developing a comprehensive AI pipeline for image segmentat
     conda activate task
     ```
 
-3. Download any pre-trained models required for segmentation and object detection, and place them in the appropriate directory as specified in the `config.py` file.
+3. Run the main.py file for a cmdline implmentation 
+    ```bash
+    python main.py
+    ```
+    If you run it for the first time `yolox-seg.pt` would be installed on your device. All process would be initiated and json files would be in your home directory in `json_files` and segmented images can be found in `segmented_objects`
 
 ## Usage
 
