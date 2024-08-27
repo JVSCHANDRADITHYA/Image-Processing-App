@@ -1,0 +1,82 @@
+[
+    {
+        "object_id": "09864c20-8fc3-4ded-a4c8-c2843396e366",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": [
+            {
+                "label": "truck",
+                "confidence": 0.5539605617523193
+            }
+        ]
+    },
+    {
+        "object_id": "115ff972-e596-41c0-9286-011229b8b89d",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": [
+            {
+                "label": "car",
+                "confidence": 0.7643479108810425
+            }
+        ]
+    },
+    {
+        "object_id": "1833eeaf-9378-4c08-bdad-71d69c4521fc",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": [
+            {
+                "label": "car",
+                "confidence": 0.78548663854599
+            }
+        ]
+    },
+    {
+        "object_id": "272bd645-f753-498d-a859-431f3cd08a4e",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": [
+            {
+                "label": "car",
+                "confidence": 0.5681249499320984
+            }
+        ]
+    },
+    {
+        "object_id": "382a38a9-9c71-4de6-b773-1e76dc7fbca7",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": []
+    },
+    {
+        "object_id": "3fa77a91-342f-4642-a4f0-56d7470eb6b6",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": [
+            {
+                "label": "tv",
+                "confidence": 0.25080329179763794
+            }
+        ]
+    },
+    {
+        "object_id": "6cea5fbc-6d98-4a19-bc2c-33a580231b5d",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": [
+            {
+                "label": "car",
+                "confidence": 0.700677216053009
+            }
+        ]
+    },
+    {
+        "object_id": "c86a80ec-7589-40a5-a264-297128393180",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": [
+            {
+                "label": "car",
+                "confidence": 0.7914314270019531
+            }
+        ]
+    },
+    {
+        "object_id": "ffc4fe7e-82a4-434e-90e0-f2cc6f01e483",
+        "master_id": "a1230cd6-be3e-4cf3-a7c7-842a59aad16c",
+        "detected_objects": []
+    }
+]
