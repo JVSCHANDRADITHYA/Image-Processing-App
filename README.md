@@ -1,4 +1,4 @@
-# v-s-chandradithya-wasserstoff-AiInternTask
+# Image Processing App
  
 # AI Image Processing Pipeline
 
