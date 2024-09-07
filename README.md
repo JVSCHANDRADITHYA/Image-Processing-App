@@ -27,8 +27,8 @@ This project involves developing a comprehensive AI pipeline for image segmentat
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/JVSCHANDRADITHYA/v-s-chandradithya-wasserstoff-AiInternTask.git
-    cd v-s-chandradithya-wasserstoff-AiInternTask
+    git clone https://github.com/JVSCHANDRADITHYA/Image-Processing-App.git
+    cd Image-Processing-App
     ```
 
 2. Install miniconda or anaconda if you haven't:
